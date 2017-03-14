@@ -1,0 +1,39 @@
+
+#container{
+    width: 70%;
+    margin: 0 auto;
+    font-size: 14px;
+    font-family: 'Microsoft YaHei';
+}
+
+input{
+    display: block;
+    width: 70%;
+    margin: 30px auto;
+    height: 30px;
+    border-radius: 3px;
+    letter-spacing: 5px;
+    text-indent: 5px;
+}
+
+#mValue,#kValue{
+    outline: 0;
+    border: 1px solid gray;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+#button{
+    color: #fff;
+    border: 0;
+    background-color: #378ed3;
+}
+
+#result{
+    width: 70%;
+    margin: 0 auto;
+    line-height: 30px;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    text-indent: 3px;
+}
